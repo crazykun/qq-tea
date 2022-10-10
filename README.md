@@ -1,5 +1,5 @@
 # qq-tea
-QQ Tea 加/解密算法
+QQ Tea 加/解密算法, 仅用于学习研究
 
 ## python版本
 [chinaunix](http://bbs.chinaunix.net/thread-583468-1-1.html)
