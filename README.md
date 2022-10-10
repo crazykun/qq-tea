@@ -8,7 +8,7 @@ QQ Tea 加/解密算法
 
 ## java版本
 
-[掘进](https://juejin.cn/post/6844903774406836237)
+[掘金](https://juejin.cn/post/6844903774406836237)
 
 [博客园](https://www.cnblogs.com/raikouissen/p/3393222.html)
 
