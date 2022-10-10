@@ -1,4 +1,4 @@
-# qq_tea
+# qq-tea
 QQ Tea 加/解密算法
 
 ## python版本
