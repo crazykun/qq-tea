@@ -20,6 +20,7 @@ print_r($data2);
 
 ## golang版本
 ```
+k := "1234657890abcdef" 
 c := tea.NewTeaCipher([]byte(k))
 
 //加密字符串
